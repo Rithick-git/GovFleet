@@ -1,0 +1,20 @@
+{
+  "name": "govfleet-backend",
+  "version": "1.0.0",
+  "description": "High-throughput real-time telemetry ingestion and streaming server for GovFleet",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "ioredis": "^5.4.1",
+    "kafkajs": "^2.2.4",
+    "mongodb": "^6.8.0",
+    "mqtt": "^5.5.2",
+    "ws": "^8.17.1"
+  }
+}
