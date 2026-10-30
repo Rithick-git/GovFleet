@@ -1,5 +1,10 @@
 # 🚍 GovFleet: Real-Time High-Throughput Bus Tracking Platform
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Hosted_Application-06b6d4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rithick-git.github.io/GovFleet/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rithick-git/GovFleet)
+
+🔗 **Live Hosted Demo:** [https://rithick-git.github.io/GovFleet/](https://rithick-git.github.io/GovFleet/)
+
 A production-grade, distributed IoT fleet telemetry and geospatial tracking architecture designed to handle thousands of concurrent transit vehicles streaming real-time GPS coordinates.
 
 ---
